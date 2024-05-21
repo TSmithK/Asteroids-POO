@@ -1,0 +1,14 @@
+asteroids\entity\Player.class
+asteroids\entity\EntityEnemy.class
+asteroids\util\Vector2.class
+asteroids\entity\satelite\PowerUpSatelite.class
+asteroids\WorldPanel.class
+asteroids\entity\AsteroidSize.class
+asteroids\Game$1.class
+asteroids\entity\Bullet.class
+asteroids\entity\EntityFriend.class
+asteroids\entity\satelite\Poder.class
+asteroids\entity\Entity.class
+asteroids\entity\Asteroid.class
+asteroids\util\Clock.class
+asteroids\Game.class
